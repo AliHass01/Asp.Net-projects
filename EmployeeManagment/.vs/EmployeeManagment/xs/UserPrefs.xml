@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C13ACA28-D9E7-467C-B686-A80CCB427F82}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeManagment/Module/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="EmployeeManagment/appsettings.json" Line="4" Column="5" />
+      <File FileName="EmployeeManagment/Program.cs" Line="11" Column="1" />
+      <File FileName="EmployeeManagment/Module/ApplicationDbContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeManagment" expanded="True">
+            <Node name="EmployeeManagment" expanded="True">
+              <Node name="Module" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EmployeeManagment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
